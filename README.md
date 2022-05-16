@@ -24,4 +24,4 @@ Tools:
 
 ### Data analysis and visualization
 
-[Divvy Bike Sharing Analysis](https://github.com/alantang96/AlanT_data_science_portfolio/blob/main/Divvy_bike_sharing_AlanT.ipynb): Data Analytics project where I analized 12 months of trips data for a bike sharing service, revealing important insights on user patterns, trends, and patterns in order to suggest strategies to convert casual users into member users. This is the capstone project for the Google Data Analytics Certificate offered on Coursera, however, I completed the project in Python rather than R as the course suggests. 
+[Divvy Bike Sharing Analysis](https://github.com/alantang96/alant-data-science-portfolio/blob/main/Divvy_bike_sharing_AlanT.ipynb): Data Analytics project where I analized 12 months of trips data for a bike sharing service, revealing important insights on user patterns, trends, and patterns in order to suggest strategies to convert casual users into member users. This is the capstone project for the Google Data Analytics Certificate offered on Coursera, however, I completed the project in Python rather than R as the course suggests. 
