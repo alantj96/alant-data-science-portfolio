@@ -39,4 +39,4 @@ Tools:
 [Iris Flowers Classifier]():
 - This is a simple - yet interesting - machine learning project where I build an Iris Flower Classifier based on different variables
 - In this project, I go through the process of importing, managing, and cleaning, and evaluating algortihms, testing and improving models, and presenting results.
-- It is a small dataset (150 entries), however, it is a multi-nominal (multi-class) problem. 
+- It is a small dataset (150 entries), however, it is a challenging multi-nominal (multi-class) problem. 
