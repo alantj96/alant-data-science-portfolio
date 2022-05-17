@@ -28,7 +28,7 @@ Tools:
 - Analysis of 1 year of trips data for a bike sharing service, revealing insights on user patterns and trends to suggest strategies and convert casual users into member users. 
 - Capstone project for the Google Data Analytics Certificate offered on Coursera. 
 
-[Visual History of Nobel Prize Winners](): 
+[Visual History of Nobel Prize Winners](https://github.com/alantj96/alant-data-science-portfolio/blob/main/Nobel_prizes_AlanT.ipynb): 
 - Data manipulation, analysis and visualization proyect to reveal historic insights on the Nobel Prizes. 
 - How many prizes have been handed out? What are the categories that have aclaimed the most Nobels? Who was the first Nobel Laurate woman?..
 - ..dive in to find these and more interesting facts on the history of the Nobel Prizes!
