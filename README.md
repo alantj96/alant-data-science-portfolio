@@ -24,6 +24,11 @@ Tools:
 
 ### Data analysis and visualization
 
-[Divvy Bike Sharing Analysis](https://github.com/alantang96/alant-data-science-portfolio/blob/main/Divvy_bike_sharing_AlanT.ipynb): Analysis of 1 year of trips data for a bike sharing service, revealing important insights on user patterns, and trends to suggest strategies and convert casual users into member users. This is the capstone project for the Google Data Analytics Certificate offered on Coursera, however, I completed the project in Python rather than R as the course suggests. 
+[Divvy Bike Sharing Analysis](https://github.com/alantang96/alant-data-science-portfolio/blob/main/Divvy_bike_sharing_AlanT.ipynb): 
+- Analysis of 1 year of trips data for a bike sharing service, revealing insights on user patterns and trends to suggest strategies and convert casual users into member users. 
+- Capstone project for the Google Data Analytics Certificate offered on Coursera. 
 
-[Visual History of Nobel Prize Winners](): Data manipulation, analysis and visualization proyect to reveal historic insights on the Nobel Prizes. How many prizes have been handed out? What are the categories that have aclaimed the most Nobels? Who was the first Nobel Laurate woman? Dive in to find these and more interesting facts on the history of the Nobel Prizes.
+[Visual History of Nobel Prize Winners](): 
+- Data manipulation, analysis and visualization proyect to reveal historic insights on the Nobel Prizes. 
+- How many prizes have been handed out? What are the categories that have aclaimed the most Nobels? Who was the first Nobel Laurate woman?..
+- ..dive in to find these and more interesting facts on the history of the Nobel Prizes.
