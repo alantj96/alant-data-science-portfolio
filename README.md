@@ -31,4 +31,4 @@ Tools:
 [Visual History of Nobel Prize Winners](): 
 - Data manipulation, analysis and visualization proyect to reveal historic insights on the Nobel Prizes. 
 - How many prizes have been handed out? What are the categories that have aclaimed the most Nobels? Who was the first Nobel Laurate woman?..
-- ..dive in to find these and more interesting facts on the history of the Nobel Prizes.
+- ..dive in to find these and more interesting facts on the history of the Nobel Prizes!
