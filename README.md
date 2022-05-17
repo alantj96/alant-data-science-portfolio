@@ -32,3 +32,11 @@ Tools:
 - Data manipulation, analysis and visualization proyect to reveal historic insights on the Nobel Prizes. 
 - How many prizes have been handed out? What are the categories that have aclaimed the most Nobels? Who was the first Nobel Laurate woman?..
 - ..dive in to find these and more interesting facts on the history of the Nobel Prizes!
+
+
+### Machine Learning in Python
+
+[Iris Flowers Classifier]():
+- This is a simple - yet interesting - machine learning project where I build an Iris Flower Classifier based on different variables
+- In this project, I go through the process of importing, managing, and cleaning, and evaluating algortihms, testing and improving models, and presenting results.
+- It is a small dataset (150 entries), however, it is a multi-nominal (multi-class) problem. 
