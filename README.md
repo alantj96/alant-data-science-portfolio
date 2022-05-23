@@ -33,6 +33,11 @@ Tools:
 - How many prizes have been handed out? What are the categories that have aclaimed the most Nobels? Who was the first Nobel Laurate woman?..
 - ..dive in to find these and more interesting facts on the history of the Nobel Prizes!
 
+[Analyzing Police Activity]():
+- *In progress, est. completion by 5/25*
+- Data cleaning, analysis and visualization proyect to explore Police Traffic Activity in the State of Rhode Island. 
+- Were drivers more prone to be arrested on a partilucar weekday? Does sex affect your chances of getting stopped?
+- Follow the scripy answer these and many other intersting questions!
 
 ### Machine Learning in Python
 
@@ -40,3 +45,7 @@ Tools:
 - This is a simple - yet interesting - machine learning project where I build an Iris Flower Classifier based on different variables
 - In this project, I go through the process of importing, managing, and cleaning, and evaluating algortihms, testing and improving models, and presenting results.
 - It is a small dataset (150 entries), however, it is a challenging multi-nominal (multi-class) problem. 
+
+[Employee Turnover Predictor]():
+- *In progress, est. completion by 5/30
+- This is a personal proyect based on past consulting experience, focusing on a possible reduction in cost by predicting employee turnover rate using different attributes, such as time with company, compensation level and overall satisfaction, to predict if an employee will leave the company or not. 
