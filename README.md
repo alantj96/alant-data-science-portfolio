@@ -37,7 +37,7 @@ Tools:
 - *In progress, est. completion by 5/25*
 - Data cleaning, analysis and visualization proyect to explore Police Traffic Activity in the State of Rhode Island. 
 - Were drivers more prone to be arrested on a partilucar weekday? Does sex affect your chances of getting stopped?
-- Follow the scripy answer these and many other intersting questions!
+- Follow the scrpit answer these and many other intersting questions!
 
 ### Machine Learning in Python
 
