@@ -24,6 +24,13 @@ Tools:
 
 ### Data analysis and visualization
 
+[Analyzing Police Activity]():
+- *In progress, est. completion by 5/25*
+- Data cleaning, analysis and visualization proyect to explore Police Traffic Activity in the State of Rhode Island. 
+- Were drivers more prone to be arrested on a partilucar weekday? Does sex affect your chances of getting stopped?
+- After answering this questions, I analyze the weather for each stop date and investigate if weather affects police behavior..
+- Follow the scrpit answer these and many other intersting questions!
+
 [Divvy Bike Sharing Analysis](https://github.com/alantang96/alant-data-science-portfolio/blob/main/Divvy_bike_sharing_AlanT.ipynb): 
 - Analysis of 1 year of trips data for a bike sharing service, revealing insights on user patterns and trends to suggest strategies and convert casual users into member users. 
 - Capstone project for the Google Data Analytics Certificate offered on Coursera. 
@@ -32,12 +39,6 @@ Tools:
 - Data manipulation, analysis and visualization proyect to reveal historic insights on the Nobel Prizes. 
 - How many prizes have been handed out? What are the categories that have aclaimed the most Nobels? Who was the first Nobel Laurate woman?..
 - ..dive in to find these and more interesting facts on the history of the Nobel Prizes!
-
-[Analyzing Police Activity]():
-- *In progress, est. completion by 5/25*
-- Data cleaning, analysis and visualization proyect to explore Police Traffic Activity in the State of Rhode Island. 
-- Were drivers more prone to be arrested on a partilucar weekday? Does sex affect your chances of getting stopped?
-- Follow the scrpit answer these and many other intersting questions!
 
 ### Machine Learning in Python
 
