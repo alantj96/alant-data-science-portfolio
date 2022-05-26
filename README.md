@@ -24,11 +24,12 @@ Tools:
 
 ### Data analysis and visualization
 
-[Analyzing Police Activity]():
-- *In progress, est. completion by 5/25*
+[Analyzing Police Activity](https://github.com/alantj96/alant-data-science-portfolio/blob/main/Analyzing%20Police%20Activity/Analyzing%20Police%20Activity%20with%20Pandas.ipynb):
+- Pandas, Matplotlib, Seaborn
+- Tested data for integrity, mapped variables, merged datasets, and plotted different results.
 - Data cleaning, analysis and visualization proyect to explore Police Traffic Activity in the State of Rhode Island. 
-- Were drivers more prone to be arrested on a partilucar weekday? Does sex affect your chances of getting stopped?
-- After answering this questions, I analyze the weather for each stop date and investigate if weather affects police behavior..
+- Testing of different questions/hypothesis regarding the correlation between variables.
+- Which gender gets stopped the most? What are the most violations commited? How does weather relate to arrest rates?
 - Follow the scrpit answer these and many other intersting questions!
 
 [Divvy Bike Sharing Analysis](https://github.com/alantang96/alant-data-science-portfolio/blob/main/Divvy_bike_sharing_AlanT.ipynb): 
