@@ -29,7 +29,7 @@ Tools:
 - Tested data for integrity, mapped variables, merged datasets, and plotted different results.
 - Data cleaning, analysis and visualization proyect to explore Police Traffic Activity in the State of Rhode Island. 
 - Testing of different questions/hypothesis regarding the correlation between variables.
-- Which gender gets stopped the most? What are the most violations commited? How does weather relate to arrest rates?
+- Which gender gets stopped the most? Which are the most violations commited? How does weather relate to arrest rates?
 - Follow the script answer these and many other intersting questions!
 
 [Divvy Bike Sharing Analysis](https://github.com/alantang96/alant-data-science-portfolio/blob/main/Divvy_bike_sharing_AlanT.ipynb): 
