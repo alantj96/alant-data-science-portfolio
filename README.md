@@ -49,5 +49,5 @@ Tools:
 - It is a small dataset (150 entries), however, it is a challenging multi-nominal (multi-class) classification problem. 
 
 [Employee Turnover Predictor]():
-- *In progress, est. completion by 5/30*
+- *In progress, est. completion by 6/12*
 - This is a personal proyect based on past consulting experience, focusing on a possible reduction in cost by predicting employee turnover rate using different attributes, such as time with company, compensation level and overall satisfaction, to predict if an employee will leave the company or not. 
