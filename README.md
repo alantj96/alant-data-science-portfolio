@@ -43,11 +43,6 @@ Tools:
 
 ### Machine Learning in Python
 
-[Iris Flowers Classifier]():
-- This is a simple - yet interesting - machine learning project where I build an Iris Flower Classifier based on different variables
-- In this project, I go through the process of importing, managing, and cleaning, and evaluating algortihms, testing and improving models, and presenting results.
-- It is a small dataset (150 entries), however, it is a challenging multi-nominal (multi-class) classification problem. 
-
-[Employee Turnover Predictor]():
-- *In progress, est. completion by 6/12*
-- This is a personal proyect based on past consulting experience, focusing on a possible reduction in cost by predicting employee turnover rate using different attributes, such as time with company, compensation level and overall satisfaction, to predict if an employee will leave the company or not. 
+[Credit Card Approval Predictor]():
+- DataCamp´s Data Scientist Track Machine Learning Project
+- Predict if a credit card submission will be approved or not using supervised machine learning algorithms
