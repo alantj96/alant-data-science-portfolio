@@ -3,8 +3,8 @@
 ## About me
 
 - 👋 I’m @alantj96
-- :mortar_board:I hold a **BS Financial Management degree (ITESM)** and I´m currently studying a **MS in Analytics (Georgia Tech) next August!**
-- :star2: I currently work as a **data scientist** for a LA based startup. 
+- :mortar_board:I hold a **BS Financial Management degree (ITESM)** and I´m currently studying a **MS in Analytics (Georgia Tech)!**
+- :star2: I currently work as a **data scientist** in the Strategy and Planning team for a LA based startup, and have previous experience as Business Consultant in the US. 
 - 👀 I’m passionate about **data analytics, data science, and Business Intelligence!**
 - 🌱 I’m constantly learning **Python, R and SQL,** as well **BI Tools such as PowerBI, Tableau, Domo, and Google Data Studio.**
 - 📫 Lets connect on [Linkedin](https://www.linkedin.com/in/alan-tang-jacome/)!
