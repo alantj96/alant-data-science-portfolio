@@ -11,7 +11,7 @@
 
 ## Data Science Portfolio
 
-This repository contains projects completed by me for hobby, self-learning, and academic purposes.
+This repository contains projects completed by me for hobby, self-learning, and academic purposes, as well as some professional examples.
 
 I will be posting periodic updates with projects on topics such as data analysis and visualization, machine learning, natural language processing, and web scraping, among others.
 
@@ -26,6 +26,8 @@ Tools:
 
 [Data at work]():
 - Identify stakeholder needs, and build ETL pipelines that suite them. Extraction via SQL through Python APIs; Cleaning and Transforming in Python; Loading into spreadsheets, GBQ and dashboards. 
+- Ensure data integrity across regions and teams.
+- "Gatekeeper" of business metrics and data that powers their calculations. 
 
 [Analyzing Police Activity](https://github.com/alantj96/alant-data-science-portfolio/blob/main/Analyzing%20Police%20Activity/Analyzing%20Police%20Activity%20with%20Pandas.ipynb):
 - Pandas, Matplotlib, Seaborn
