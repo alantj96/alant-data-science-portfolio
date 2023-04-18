@@ -4,9 +4,9 @@
 
 - 👋 I’m @alantj96
 - :mortar_board:I hold a **BS Financial Management degree (ITESM)** and I´m currently studying a **MS in Analytics (Georgia Tech)!**
-- :star2: I currently work as a **data scientist** in the Strategy and Planning team for a LA based startup, and have previous experience as Business Consultant in the US. 
+- :star2: I currently work as a **data scientist** in the Strategy and Planning team for a LA based startup, and have previous experience as Business Consultant in the United States. 
 - 👀 I’m passionate about **data analytics, data science, and Business Intelligence!**
-- 🌱 I’m constantly learning **Python, R and SQL,** as well **BI Tools such as PowerBI, Tableau, Domo, and Google Data Studio.**
+- 🌱 I’m constantly learning **Python, R and SQL,** as well **BI Tools such as PowerBI, Tableau, and Google Data Studio.**
 - 📫 Lets connect on [Linkedin](https://www.linkedin.com/in/alan-tang-jacome/)!
 
 ## Data Science Portfolio
@@ -18,10 +18,14 @@ I will be posting periodic updates with projects on topics such as data analysis
 Tools: 
 - Data analysis: Pandas, NumPy, Seaborn, Matplotlib
 - Machine learning: Scikit-learn, Tensorflow
+- Data Viz: Google Data Studio, Power BI
 
 ## Projects: 
 
 ### Data analysis and visualization
+
+[Data at work]():
+- Identify stakeholder needs, and build ETL pipelines that suite them. Extraction via SQL through Python APIs; Cleaning and Transforming in Python; Loading into spreadsheets, GBQ and dashboards. 
 
 [Analyzing Police Activity](https://github.com/alantj96/alant-data-science-portfolio/blob/main/Analyzing%20Police%20Activity/Analyzing%20Police%20Activity%20with%20Pandas.ipynb):
 - Pandas, Matplotlib, Seaborn
@@ -41,6 +45,9 @@ Tools:
 - ..dive in to find these and more interesting facts on the history of the Nobel Prizes!
 
 ### Machine Learning in Python
+
+[Customer Churn Predictor]():
+- Designed, developed and deployed a logit regression model to assign probabilities of customer churn based on historic data. 
 
 [Credit Card Approval Predictor]():
 - DataCamp´s Data Scientist Track Machine Learning Project
